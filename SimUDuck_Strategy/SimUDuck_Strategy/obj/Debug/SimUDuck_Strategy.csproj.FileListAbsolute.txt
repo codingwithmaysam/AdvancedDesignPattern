@@ -1,0 +1,6 @@
+C:\Repos\AdvancedDesignPattern\AdvancedDesignPattern\SimUDuck_Strategy\SimUDuck_Strategy\obj\Debug\SimUDuck_Strategy.csprojAssemblyReference.cache
+C:\Repos\AdvancedDesignPattern\AdvancedDesignPattern\SimUDuck_Strategy\SimUDuck_Strategy\bin\Debug\SimUDuck_Strategy.exe.config
+C:\Repos\AdvancedDesignPattern\AdvancedDesignPattern\SimUDuck_Strategy\SimUDuck_Strategy\bin\Debug\SimUDuck_Strategy.exe
+C:\Repos\AdvancedDesignPattern\AdvancedDesignPattern\SimUDuck_Strategy\SimUDuck_Strategy\bin\Debug\SimUDuck_Strategy.pdb
+C:\Repos\AdvancedDesignPattern\AdvancedDesignPattern\SimUDuck_Strategy\SimUDuck_Strategy\obj\Debug\SimUDuck_Strategy.exe
+C:\Repos\AdvancedDesignPattern\AdvancedDesignPattern\SimUDuck_Strategy\SimUDuck_Strategy\obj\Debug\SimUDuck_Strategy.pdb
