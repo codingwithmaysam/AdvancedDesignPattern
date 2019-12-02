@@ -2,7 +2,7 @@
 
 namespace SimUDuck_Strategy
 {
-	internal class FlyingBehaviors
+	internal class FlyingBehaviors : IFlyingBehaviors
 	{
 		public void FlyWithWing()
 		{
@@ -12,5 +12,9 @@ namespace SimUDuck_Strategy
 		{
 			Console.WriteLine("Fly noway :(.");
 		}
+	}
+
+	public interface IFlyingBehaviors
+	{
 	}
 }

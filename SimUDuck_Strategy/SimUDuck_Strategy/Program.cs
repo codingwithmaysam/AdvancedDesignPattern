@@ -9,7 +9,7 @@ namespace SimUDuck_Strategy
 	{
 		static void Main(string[] args)
 		{
-			var mallardDuck = new MallardDuck();
+			var mallardDuck = new MallardDuck(new FlyingBehaviors(), new SoundsBehaviors());
 			mallardDuck.Display();
 			mallardDuck.PerformQuack();
 		}

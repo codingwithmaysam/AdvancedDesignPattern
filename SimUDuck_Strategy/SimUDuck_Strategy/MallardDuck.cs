@@ -8,11 +8,11 @@ namespace SimUDuck_Strategy
 		{
 			Console.WriteLine("This is a MallardDuck");
 		}
-		public MallardDuck()
+		public MallardDuck(FlyingBehaviors flyingBehaviors, SoundsBehaviors soundsBehaviors)
 		{
-			FlyingBehaviors += new FlyingBehaviors().FlyWithWing;
-			QuackBehaviors += new SoundsBehaviors().Quack;
-			QuackBehaviors += new SoundsBehaviors().Squeak;
+			FlyingBehaviors += flyingBehaviors.FlyWithWing;
+			QuackBehaviors += soundsBehaviors.Quack;
+			QuackBehaviors += soundsBehaviors.Squeak;
 		}
 	}
 }
