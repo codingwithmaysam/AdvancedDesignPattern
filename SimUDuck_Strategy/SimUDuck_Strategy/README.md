@@ -4,10 +4,10 @@ I implemented strategy Design pattern using C# Delegate instead of using Interfa
 it also gives us more flexibility in order to apply multiple behaviors related to a specific group of behavior.
 ```
 Example :
-public MallardDuck()
+public MallardDuck(FlyingBehaviors flyingBehaviors, SoundsBehaviors soundsBehaviors)
 		{
-			QuackBehaviors += new SoundsBehaviors().Quack; 
-			QuackBehaviors += new SoundsBehaviors().Squeak;
-			QuackBehaviors += new SoundsBehaviors().NoSound;
+			FlyingBehaviors += flyingBehaviors.FlyWithWing;
+			QuackBehaviors += soundsBehaviors.Quack;
+			QuackBehaviors += soundsBehaviors.Squeak;
 		}
 ```
