@@ -1,0 +1,5 @@
+C:\Repos\AdvancedDesignPattern\AdvancedDesignPattern\SimUDuck_Strategy\SimuDuck_Strategy_2\bin\Debug\SimuDuck_Strategy_2.exe.config
+C:\Repos\AdvancedDesignPattern\AdvancedDesignPattern\SimUDuck_Strategy\SimuDuck_Strategy_2\bin\Debug\SimuDuck_Strategy_2.exe
+C:\Repos\AdvancedDesignPattern\AdvancedDesignPattern\SimUDuck_Strategy\SimuDuck_Strategy_2\bin\Debug\SimuDuck_Strategy_2.pdb
+C:\Repos\AdvancedDesignPattern\AdvancedDesignPattern\SimUDuck_Strategy\SimuDuck_Strategy_2\obj\Debug\SimuDuck_Strategy_2.exe
+C:\Repos\AdvancedDesignPattern\AdvancedDesignPattern\SimUDuck_Strategy\SimuDuck_Strategy_2\obj\Debug\SimuDuck_Strategy_2.pdb
