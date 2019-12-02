@@ -2,7 +2,7 @@
 
 namespace SimUDuck_Strategy
 {
-	internal class FlyingBehaviors : IFlyingBehaviors
+	internal class FlyingBehaviors 
 	{
 		public void FlyWithWing()
 		{
@@ -14,7 +14,4 @@ namespace SimUDuck_Strategy
 		}
 	}
 
-	public interface IFlyingBehaviors
-	{
-	}
 }
