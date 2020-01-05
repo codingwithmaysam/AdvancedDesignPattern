@@ -1,2 +1,4 @@
 /.vs
 .vs
+/FactoryPattern/FactoryPattern/bin/Debug
+/FactoryPattern/FactoryPattern/obj/Debug
